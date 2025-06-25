@@ -42,7 +42,7 @@ Backend:
   - JWT & Auth
 
 Mobile:
-  - Flutter (Dart)
+  - React native
   - Platform Channels
 
 DevOps & Cloud:
@@ -52,9 +52,6 @@ DevOps & Cloud:
   - Render
   - AWS (in progress)
 
-Other:
-  - Ethical Hacking (Basic)
-  - Python Automation
 ```
 
 ---
@@ -112,10 +109,3 @@ Other:
 
 ---
 
-### 🧾 FINAL LOG
-
-```bash
-> quote --inspire
-“Programs must be written for people to read, and only incidentally for machines to execute.”
-— Harold Abelson
-```
