@@ -1,99 +1,94 @@
-<!-- Profile Header -->
-<h1 align="center">🧠 Akif Anvar</h1>
-<h3 align="center">⚙️ Full-Stack Developer | 🤖 AI Explorer | 🛠️ System Builder</h3>
+<!-- Profile Interface -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Akif+Anvar%20%3A%20System+Online...;Full-Stack+Developer+%7C+AI+Explorer;Initiating+Code...&center=true&width=500&height=40&color=6E40C9&font=Fira%20Code&size=20" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akif369&label=Terminal%20Scans&color=6e40c9&style=flat-square" alt="Profile Views" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=akif369&label=Incoming%20Scans&color=64c6f3&style=flat-square" />
+</div>
 
 ---
 
-### 📡 SYSTEM LOG: [akif369@github ~]$
+## 🧬 [~] SYSTEM OVERVIEW
 
-```bash
-> whoami
-Akif Anvar — Code Engineer. AI Enthusiast. Builder of Better UX.
-
-> status --dev
-🧩 Building full-stack apps  
-📦 Deploying scalable cloud systems  
-🧪 Experimenting with machine learning  
-📱 Developing mobile interfaces with Flutter  
-
-> mission
-// Build useful tech that actually solves real-world problems
+```sh
+user: akif369
+role: Full-Stack Developer / AI Tinkerer / System Thinker
+stack: MERN, Flutter, DevOps
+status: 🚀 Active | 🧠 Always Learning
 ```
 
 ---
 
-### ⚙️ SYSTEM SPECS
-
-```yaml
-Frontend:
-  - React.js
-  - Next.js
-  - TailwindCSS
-  - Redux Toolkit
-
-Backend:
-  - Node.js
-  - Express.js
-  - MongoDB
-  - JWT & Auth
-
-Mobile:
-  - React native
-  - Platform Channels
-
-DevOps & Cloud:
-  - Git + GitHub
-  - Docker
-  - Vercel
-  - Render
-  - AWS (in progress)
-
-```
-
----
-
-### 📊 SYSTEM MONITORING
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akif369&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akif369&layout=compact&theme=radical&hide_border=true" height="170" />
-</p>
-
----
-
-### 🔁 ACTIVITY TRACELOG
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akif369&bg_color=0d1117&color=64c6f3&line=6e40c9&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
-### 🧠 CURRENT OPS
+## 🧠 CURRENT OBJECTIVES
 
 ```json
 {
-  "focus": [
-    "Flutter + Dart 🔄 Clean Architecture",
-    "AI Models 🤖",
-    "DevOps Pipelines 🚀"
+  "stack_focus": [
+    "React + Tailwind UI Systems",
+    "Flutter Cross-Platform App Dev",
+    "Mongo + Node APIs",
+    "AI Agents using LLMs"
   ],
   "learning": [
-    "AWS Cloud",
-    "LLMs & Vector Databases",
-    "Offline Voice Tech"
-  ],
-  "next_up": "Deploy AI agent in React + Python stack"
+    "AWS Cloud Architecting",
+    "LangChain & Vector Search",
+    "Offline Speech Recognition"
+  ]
 }
 ```
 
 ---
 
-### 📡 CONNECT WITH CONTROL CENTER
+## ⚙️ TECH MODULES
+
+```yaml
+frontend:
+  - React.js
+  - Next.js
+  - TailwindCSS
+  - Redux Toolkit
+backend:
+  - Node.js
+  - Express
+  - MongoDB
+  - REST + JWT Auth
+mobile:
+  - React Native
+  - Flutter (Learning)
+devops:
+  - Docker
+  - GitHub Actions
+  - Vercel, Render
+  - AWS (Onboarding)
+```
+
+---
+
+## 📊 GITHUB SYSTEM METRICS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akif369&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akif369&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🔄 GIT TRAFFIC MONITOR
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akif369&bg_color=1a1a1a&color=64c6f3&line=915EFF&point=FFFFFF&area=true&hide_border=true" />
+</p>
+
+---
+
+## 🛰 CONTACT FREQUENCIES
+
+```sh
+📧 akifanvar369@gmail.com
+🌐 https://wellnexfitness.com
+🔗 linkedin.com/in/akif369
+```
 
 <p align="left">
   <a href="https://linkedin.com/in/akif369" target="_blank">
@@ -109,3 +104,10 @@ DevOps & Cloud:
 
 ---
 
+## 📜 CODE PHILOSOPHY
+
+> "The best code is no code at all. But if you must write it, write it beautifully."
+
+---
+
+<!-- Terminal aesthetic ends -->
