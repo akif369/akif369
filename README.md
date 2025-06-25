@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=akif369&label=VISTORS%20COUNT&color=64c6f3&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=akif369&label=Vistors%20Count&color=64c6f3&style=flat-square" />
 </div>
 
 ---
